@@ -1,4 +1,4 @@
-package org.example.copilot_demo;
+package org.example.weather;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
