@@ -1,7 +1,7 @@
 package org.example.weather.application.service;
 
 import org.example.weather.application.port.WeatherPersistencePort;
-import org.example.weather.application.port.WeatherPort;
+import org.example.weather.application.port.WeatherGetInformationByCityPort;
 import org.example.weather.domain.CityValidator;
 import org.example.weather.domain.Weather;
 import static org.junit.jupiter.api.Assertions.assertEquals;
@@ -17,7 +17,7 @@ import org.mockito.MockitoAnnotations;
 class WeatherServiceTest {
 
     @Mock
-    private WeatherPort weatherPort;
+    private WeatherGetInformationByCityPort weatherPort;
 
     @Mock
     private WeatherPersistencePort weatherPersistencePort;

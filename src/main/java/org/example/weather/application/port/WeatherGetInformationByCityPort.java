@@ -6,7 +6,7 @@ import org.example.weather.domain.Weather;
  * Interfaz para el puerto de obtención del clima.
  * Define el contrato para obtener la información del clima de una ciudad específica.
  */
-public interface WeatherPort {
+public interface WeatherGetInformationByCityPort {
     /**
      * Obtiene la información del clima para una ciudad específica.
      * 

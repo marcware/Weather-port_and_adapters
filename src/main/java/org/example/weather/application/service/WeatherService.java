@@ -1,7 +1,7 @@
 package org.example.weather.application.service;
 
+import org.example.weather.application.port.WeatherGetInformationByCityPort;
 import org.example.weather.application.port.WeatherPersistencePort;
-import org.example.weather.application.port.WeatherPort;
 import org.example.weather.domain.CityValidator;
 import org.example.weather.domain.Weather;
 import org.springframework.stereotype.Service;
@@ -12,7 +12,7 @@ import lombok.RequiredArgsConstructor;
 @Service
 @RequiredArgsConstructor
 public class WeatherService {
-    private final WeatherPort weatherPort;
+    private final WeatherGetInformationByCityPort weatherPort;
     private final WeatherPersistencePort weatherPersistencePort;
     private final CityValidator cityValidator;
 
