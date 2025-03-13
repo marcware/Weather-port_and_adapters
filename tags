@@ -1,0 +1,300 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_EXCMD	mixed	/number, pattern, mixed, or combineV2/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROC_CWD	/home/marcos/Develop/Formació/Weather-port_and_adapters/	//
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	5.9.0	//
+#content	build/reports/tests/test/css/base-style.css	/^#content {$/;"	i
+#content h1	build/reports/tests/test/css/base-style.css	/^#content h1 {$/;"	s
+#duration	build/reports/tests/test/css/style.css	/^#duration {$/;"	i
+#footer	build/reports/tests/test/css/base-style.css	/^#footer {$/;"	i
+#footer	build/reports/tests/test/css/base-style.css	/^#footer, #footer a {$/;"	i
+#footer a	build/reports/tests/test/css/base-style.css	/^#footer, #footer a {$/;"	s
+#label-for-line-wrapping-toggle	build/reports/tests/test/css/base-style.css	/^#label-for-line-wrapping-toggle {$/;"	i
+#line-wrapping-toggle	build/reports/tests/test/css/base-style.css	/^#line-wrapping-toggle {$/;"	i
+#successRate	build/reports/tests/test/css/style.css	/^#successRate {$/;"	i
+#successRate	build/reports/tests/test/css/style.css	/^#successRate, .summaryGroup {$/;"	i
+#successRate .percent	build/reports/tests/test/css/style.css	/^#successRate .percent {$/;"	c
+#successRate.failures	build/reports/tests/test/css/style.css	/^div.failures, #successRate.failures {$/;"	c
+#successRate.success	build/reports/tests/test/css/style.css	/^div.success, #successRate.success {$/;"	c
+#summary	build/reports/tests/test/css/style.css	/^#summary {$/;"	i
+#summary table	build/reports/tests/test/css/style.css	/^#summary table {$/;"	s
+#summary td	build/reports/tests/test/css/style.css	/^#summary td {$/;"	s
+.breadcrumbs	build/reports/tests/test/css/style.css	/^.breadcrumbs, .breadcrumbs a {$/;"	c
+.breadcrumbs a	build/reports/tests/test/css/style.css	/^.breadcrumbs, .breadcrumbs a {$/;"	s
+.counter	build/reports/tests/test/css/style.css	/^.counter, .percent {$/;"	c
+.failures	build/reports/tests/test/css/style.css	/^.failures, .failures a {$/;"	c
+.failures a	build/reports/tests/test/css/style.css	/^.failures, .failures a {$/;"	s
+.infoBox	build/reports/tests/test/css/style.css	/^.infoBox {$/;"	c
+.infoBox p	build/reports/tests/test/css/style.css	/^.infoBox p {$/;"	s
+.percent	build/reports/tests/test/css/style.css	/^.counter, .percent {$/;"	c
+.skipped	build/reports/tests/test/css/style.css	/^.skipped, .skipped a {$/;"	c
+.skipped a	build/reports/tests/test/css/style.css	/^.skipped, .skipped a {$/;"	s
+.success	build/reports/tests/test/css/style.css	/^.success, .success a {$/;"	c
+.success a	build/reports/tests/test/css/style.css	/^.success, .success a {$/;"	s
+.summaryGroup	build/reports/tests/test/css/style.css	/^#successRate, .summaryGroup {$/;"	c
+API_URL	src/main/java/org/example/weather/infrastructure/adapter/api/WeatherApiAdapter.java	/^    private static final String API_URL =$/;"	f	class:WeatherApiAdapter	file:
+APP_BASE_NAME	gradlew.bat	/^set APP_BASE_NAME=%~n0$/;"	v
+APP_HOME	gradlew.bat	/^for %%i in ("%APP_HOME%") do set APP_HOME=%%~fi$/;"	v
+APP_HOME	gradlew.bat	/^set APP_HOME=%DIRNAME%$/;"	v
+CITY_NAME_PATTERN	src/main/java/org/example/weather/domain/CityValidator.java	/^    private static final String CITY_NAME_PATTERN = "^[a-zA-Z\\\\s]+$";$/;"	f	class:CityValidator	file:
+CLASSPATH	gradlew.bat	/^set CLASSPATH=%APP_HOME%\\gradle\\wrapper\\gradle-wrapper.jar$/;"	v
+CityValidator	src/main/java/org/example/weather/domain/CityValidator.java	/^public class CityValidator {$/;"	c
+CityValidatorTest	src/test/java/org/example/weather/domain/CityValidatorTest.java	/^class CityValidatorTest {$/;"	c
+Classes	build/reports/tests/test/index.html	/^<h2>Classes<\/h2>$/;"	i
+Classes	build/reports/tests/test/packages/org.example.weather.infrastructure.adapter.api.html	/^<h2>Classes<\/h2>$/;"	i
+DEFAULT_JVM_OPTS	gradlew.bat	/^set DEFAULT_JVM_OPTS="-Xmx64m" "-Xms64m"$/;"	v
+DIRNAME	gradlew.bat	/^if "%DIRNAME%"=="" set DIRNAME=.$/;"	v
+DIRNAME	gradlew.bat	/^set DIRNAME=%~dp0$/;"	v
+EXIT_CODE	gradlew.bat	/^if %EXIT_CODE% equ 0 set EXIT_CODE=1$/;"	v
+EXIT_CODE	gradlew.bat	/^set EXIT_CODE=%ERRORLEVEL%$/;"	v
+Failed tests	build/reports/tests/test/classes/org.example.weather.infrastructure.adapter.api.WeatherApiAdapterTest.html	/^<h2>Failed tests<\/h2>$/;"	i
+Failed tests	build/reports/tests/test/index.html	/^<h2>Failed tests<\/h2>$/;"	i
+Failed tests	build/reports/tests/test/packages/org.example.weather.infrastructure.adapter.api.html	/^<h2>Failed tests<\/h2>$/;"	i
+JAVA_EXE	gradlew.bat	/^set JAVA_EXE=%JAVA_HOME%\/bin\/java.exe$/;"	v
+JAVA_EXE	gradlew.bat	/^set JAVA_EXE=java.exe$/;"	v
+JAVA_HOME	gradlew.bat	/^set JAVA_HOME=%JAVA_HOME:"=%$/;"	v
+Layer_1	build/reports/problems/problems-report.html	/^    background-image: url('data:image\/svg+xml;utf8,<svg width="800px" height="800px" viewBox="-/;"	I
+Main	src/main/java/org/example/weather/infrastructure/adapter/api/WeatherApiResponse.java	/^    public static class Main {$/;"	c	class:WeatherApiResponse
+Package org.example.weather.infrastructure.adapter.api	build/reports/tests/test/packages/org.example.weather.infrastructure.adapter.api.html	/^<h1>Package org.example.weather.infrastructure.adapter.api<\/h1>$/;"	h
+Packages	build/reports/tests/test/index.html	/^<h2>Packages<\/h2>$/;"	i
+Standard error	build/reports/tests/test/classes/org.example.weather.infrastructure.adapter.api.WeatherApiAdapterTest.html	/^<h2>Standard error<\/h2>$/;"	i
+Test Summary	build/reports/tests/test/index.html	/^<h1>Test Summary<\/h1>$/;"	h
+Tests	build/reports/tests/test/classes/org.example.weather.infrastructure.adapter.api.WeatherApiAdapterTest.html	/^<h2>Tests<\/h2>$/;"	i
+Weather	src/main/java/org/example/weather/domain/Weather.java	/^public class Weather {$/;"	c
+Weather-port_and_adapters	README.md	/^# Weather-port_and_adapters/;"	c
+WeatherApiAdapter	src/main/java/org/example/weather/infrastructure/adapter/api/WeatherApiAdapter.java	/^public class WeatherApiAdapter implements WeatherGetInformationByCityPort {$/;"	c
+WeatherApiAdapterTest	build/reports/tests/test/classes/org.example.weather.infrastructure.adapter.api.WeatherApiAdapterTest.html	/^<h1>WeatherApiAdapterTest<\/h1>$/;"	h
+WeatherApiAdapterTest	src/test/java/org/example/weather/infrastructure/adapter/api/WeatherApiAdapterTest.java	/^class WeatherApiAdapterTest {$/;"	c
+WeatherApiResponse	src/main/java/org/example/weather/infrastructure/adapter/api/WeatherApiResponse.java	/^public class WeatherApiResponse {$/;"	c
+WeatherApiResponseMapper	src/main/java/org/example/weather/infrastructure/adapter/api/WeatherApiResponseMapper.java	/^public class WeatherApiResponseMapper {$/;"	c
+WeatherApiResponseMapperTest	src/test/java/org/example/weather/infrastructure/adapter/api/WeatherApiResponseMapperTest.java	/^class WeatherApiResponseMapperTest {$/;"	c
+WeatherApplication	src/main/java/org/example/weather/WeatherApplication.java	/^public class WeatherApplication {$/;"	c
+WeatherApplicationTests	src/test/java/org/example/weather/WeatherApplicationTests.java	/^class WeatherApplicationTests {$/;"	c
+WeatherController	src/main/java/org/example/weather/web/WeatherController.java	/^    public WeatherController(WeatherService weatherService) {$/;"	m	class:WeatherController
+WeatherController	src/main/java/org/example/weather/web/WeatherController.java	/^public class WeatherController {$/;"	c
+WeatherDescription	src/main/java/org/example/weather/infrastructure/adapter/api/WeatherApiResponse.java	/^    public static class WeatherDescription {$/;"	c	class:WeatherApiResponse
+WeatherEntity	src/main/java/org/example/weather/infrastructure/adapter/db/WeatherEntity.java	/^public class WeatherEntity {$/;"	c
+WeatherGetInformationByCityPort	src/main/java/org/example/weather/application/port/WeatherGetInformationByCityPort.java	/^public interface WeatherGetInformationByCityPort {$/;"	i
+WeatherMapper	src/main/java/org/example/weather/infrastructure/adapter/db/WeatherMapper.java	/^public class WeatherMapper {$/;"	c
+WeatherMapperTest	src/test/java/org/example/weather/infrastructure/adapter/db/WeatherMapperTest.java	/^class WeatherMapperTest {$/;"	c
+WeatherPersistenceAdapter	src/main/java/org/example/weather/infrastructure/adapter/db/WeatherPersistenceAdapter.java	/^public class WeatherPersistenceAdapter implements WeatherPersistencePort {$/;"	c
+WeatherPersistenceAdapterTest	src/test/java/org/example/weather/infrastructure/adapter/db/WeatherPersistenceAdapterTest.java	/^class WeatherPersistenceAdapterTest {$/;"	c
+WeatherPersistencePort	src/main/java/org/example/weather/application/port/WeatherPersistencePort.java	/^public interface WeatherPersistencePort {$/;"	i
+WeatherRepository	src/main/java/org/example/weather/infrastructure/adapter/db/WeatherRepository.java	/^public interface WeatherRepository extends JpaRepository<WeatherEntity, Long> {$/;"	i
+WeatherService	src/main/java/org/example/weather/application/service/WeatherService.java	/^public class WeatherService {$/;"	c
+WeatherServiceTest	src/test/java/org/example/weather/application/service/WeatherServiceTest.java	/^class WeatherServiceTest {$/;"	c
+a	build/reports/tests/test/css/base-style.css	/^body, a, a:visited {$/;"	s
+a:visited	build/reports/tests/test/css/base-style.css	/^body, a, a:visited {$/;"	s
+addClass	build/reports/tests/test/js/report.js	/^    function addClass(element, classValue) {$/;"	f
+body	build/reports/tests/test/css/base-style.css	/^body {$/;"	s
+body	build/reports/tests/test/css/base-style.css	/^body, a, a:visited {$/;"	s
+changeElementClass	build/reports/tests/test/js/report.js	/^    function changeElementClass(element, classValue) {$/;"	f
+city	build/resources/main/schema.sql	/^    city VARCHAR(255),$/;"	E	table:weather_entity
+city	src/main/java/org/example/weather/domain/Weather.java	/^    private String city;$/;"	f	class:Weather	file:
+city	src/main/java/org/example/weather/infrastructure/adapter/db/WeatherEntity.java	/^    private String city;$/;"	f	class:WeatherEntity	file:
+city	src/main/resources/schema.sql	/^    city VARCHAR(255),$/;"	E	table:weather_entity
+cityValidator	src/main/java/org/example/weather/application/service/WeatherService.java	/^    private final CityValidator cityValidator;$/;"	f	class:WeatherService	file:
+cityValidator	src/test/java/org/example/weather/application/service/WeatherServiceTest.java	/^    private CityValidator cityValidator;$/;"	f	class:WeatherServiceTest	file:
+cityValidator	src/test/java/org/example/weather/domain/CityValidatorTest.java	/^    private final CityValidator cityValidator = new CityValidator();$/;"	f	class:CityValidatorTest	file:
+content	build/reports/tests/test/classes/org.example.weather.infrastructure.adapter.api.WeatherApiAdapterTest.html	/^<div id="content">$/;"	I
+content	build/reports/tests/test/index.html	/^<div id="content">$/;"	I
+content	build/reports/tests/test/packages/org.example.weather.infrastructure.adapter.api.html	/^<div id="content">$/;"	I
+contextLoads	src/test/java/org/example/weather/WeatherApplicationTests.java	/^    void contextLoads() {$/;"	m	class:WeatherApplicationTests
+description	build/resources/main/schema.sql	/^    description VARCHAR(255),$/;"	E	table:weather_entity
+description	src/main/java/org/example/weather/domain/Weather.java	/^    private String description;$/;"	f	class:Weather	file:
+description	src/main/java/org/example/weather/infrastructure/adapter/api/WeatherApiResponse.java	/^        private String description;$/;"	f	class:WeatherApiResponse.WeatherDescription	file:
+description	src/main/java/org/example/weather/infrastructure/adapter/db/WeatherEntity.java	/^    private String description;$/;"	f	class:WeatherEntity	file:
+description	src/main/resources/schema.sql	/^    description VARCHAR(255),$/;"	E	table:weather_entity
+deselectAll	build/reports/tests/test/js/report.js	/^    function deselectAll() {$/;"	f
+die	gradlew	/^die () {$/;"	f
+distributionBase	gradle/wrapper/gradle-wrapper.properties	/^distributionBase=GRADLE_USER_HOME$/;"	k
+distributionPath	gradle/wrapper/gradle-wrapper.properties	/^distributionPath=wrapper\/dists$/;"	k
+distributionUrl	gradle/wrapper/gradle-wrapper.properties	/^distributionUrl=https\\:\/\/services.gradle.org\/distributions\/gradle-8.11.1-bin.zip$/;"	k
+div.deselected	build/reports/tests/test/css/base-style.css	/^div.deselected {$/;"	c
+div.failures	build/reports/tests/test/css/style.css	/^div.failures, #successRate.failures {$/;"	c
+div.selected	build/reports/tests/test/css/base-style.css	/^div.selected {$/;"	c
+div.success	build/reports/tests/test/css/style.css	/^div.success, #successRate.success {$/;"	c
+div.tab	build/reports/tests/test/css/base-style.css	/^div.tab {$/;"	c
+div.tab table	build/reports/tests/test/css/base-style.css	/^div.tab table {$/;"	s
+div.tab table	build/reports/tests/test/css/base-style.css	/^div.tab th, div.tab table {$/;"	s
+div.tab td	build/reports/tests/test/css/base-style.css	/^div.tab td {$/;"	s
+div.tab td.numeric	build/reports/tests/test/css/base-style.css	/^div.tab td.numeric, div.tab th.numeric {$/;"	c
+div.tab td:first-child	build/reports/tests/test/css/base-style.css	/^div.tab td:first-child {$/;"	s
+div.tab th	build/reports/tests/test/css/base-style.css	/^div.tab th {$/;"	s
+div.tab th	build/reports/tests/test/css/base-style.css	/^div.tab th, div.tab table {$/;"	s
+div.tab th.numeric	build/reports/tests/test/css/base-style.css	/^div.tab td.numeric, div.tab th.numeric {$/;"	c
+div.tab th:first-child	build/reports/tests/test/css/base-style.css	/^div.tab th:first-child {$/;"	s
+duration	build/reports/tests/test/classes/org.example.weather.infrastructure.adapter.api.WeatherApiAdapterTest.html	/^<div class="infoBox" id="duration">$/;"	I
+duration	build/reports/tests/test/index.html	/^<div class="infoBox" id="duration">$/;"	I
+duration	build/reports/tests/test/packages/org.example.weather.infrastructure.adapter.api.html	/^<div class="infoBox" id="duration">$/;"	I
+end	gradlew.bat	/^:end$/;"	l
+execute	gradlew.bat	/^:execute$/;"	l
+fail	gradlew.bat	/^:fail$/;"	l
+failures	build/reports/tests/test/classes/org.example.weather.infrastructure.adapter.api.WeatherApiAdapterTest.html	/^<div class="infoBox" id="failures">$/;"	I
+failures	build/reports/tests/test/index.html	/^<div class="infoBox" id="failures">$/;"	I
+failures	build/reports/tests/test/packages/org.example.weather.infrastructure.adapter.api.html	/^<div class="infoBox" id="failures">$/;"	I
+findChildElements	build/reports/tests/test/js/report.js	/^    function findChildElements(container, name, targetClass) {$/;"	f
+findCodeBlocks	build/reports/tests/test/js/report.js	/^    function findCodeBlocks() {$/;"	f
+findHeaders	build/reports/tests/test/js/report.js	/^    function findHeaders(container) {$/;"	f
+findJavaFromJavaHome	gradlew.bat	/^:findJavaFromJavaHome$/;"	l
+findTabs	build/reports/tests/test/js/report.js	/^    function findTabs(container) {$/;"	f
+findTitles	build/reports/tests/test/js/report.js	/^    function findTitles(tabs) {$/;"	f
+footer	build/reports/tests/test/classes/org.example.weather.infrastructure.adapter.api.WeatherApiAdapterTest.html	/^<div id="footer">$/;"	I
+footer	build/reports/tests/test/index.html	/^<div id="footer">$/;"	I
+footer	build/reports/tests/test/packages/org.example.weather.infrastructure.adapter.api.html	/^<div id="footer">$/;"	I
+forAllCodeBlocks	build/reports/tests/test/js/report.js	/^    function forAllCodeBlocks(operation) {$/;"	f
+getCheckBox	build/reports/tests/test/js/report.js	/^    function getCheckBox() {$/;"	f
+getClassAttribute	build/reports/tests/test/js/report.js	/^    function getClassAttribute(element) {$/;"	f
+getDescription	src/main/java/org/example/weather/infrastructure/adapter/api/WeatherApiResponse.java	/^        public String getDescription() {$/;"	m	class:WeatherApiResponse.WeatherDescription
+getLabelForCheckBox	build/reports/tests/test/js/report.js	/^    function getLabelForCheckBox() {$/;"	f
+getMain	src/main/java/org/example/weather/infrastructure/adapter/api/WeatherApiResponse.java	/^    public Main getMain() {$/;"	m	class:WeatherApiResponse
+getTemp	src/main/java/org/example/weather/infrastructure/adapter/api/WeatherApiResponse.java	/^        public double getTemp() {$/;"	m	class:WeatherApiResponse.Main
+getWeather	src/main/java/org/example/weather/application/service/WeatherService.java	/^    public Weather getWeather(String city) {$/;"	m	class:WeatherService
+getWeather	src/main/java/org/example/weather/infrastructure/adapter/api/WeatherApiResponse.java	/^    public List<WeatherDescription> getWeather() {$/;"	m	class:WeatherApiResponse
+getWeather	src/main/java/org/example/weather/web/WeatherController.java	/^    public Weather getWeather(@RequestParam String city) {$/;"	m	class:WeatherController
+getWeatherForCity	src/main/java/org/example/weather/application/port/WeatherGetInformationByCityPort.java	/^    Weather getWeatherForCity(String city);$/;"	m	interface:WeatherGetInformationByCityPort
+getWeatherForCity	src/main/java/org/example/weather/infrastructure/adapter/api/WeatherApiAdapter.java	/^    public Weather getWeatherForCity(String city) {$/;"	m	class:WeatherApiAdapter
+gradle.version	.gradle/buildOutputCleanup/cache.properties	/^gradle.version=8.11.1$/;"	k
+h1	build/reports/tests/test/css/base-style.css	/^h1, h2, h3 {$/;"	s
+h2	build/reports/tests/test/css/base-style.css	/^h1, h2, h3 {$/;"	s
+h2	build/reports/tests/test/css/base-style.css	/^h2 {$/;"	s
+h3	build/reports/tests/test/css/base-style.css	/^h1, h2, h3 {$/;"	s
+id	build/resources/main/schema.sql	/^    id SERIAL PRIMARY KEY,$/;"	E	table:weather_entity
+id	src/main/java/org/example/weather/infrastructure/adapter/db/WeatherEntity.java	/^    private Long id;$/;"	f	class:WeatherEntity	file:
+id	src/main/resources/schema.sql	/^    id SERIAL PRIMARY KEY,$/;"	E	table:weather_entity
+ignored	build/reports/tests/test/classes/org.example.weather.infrastructure.adapter.api.WeatherApiAdapterTest.html	/^<div class="infoBox" id="ignored">$/;"	I
+ignored	build/reports/tests/test/index.html	/^<div class="infoBox" id="ignored">$/;"	I
+ignored	build/reports/tests/test/packages/org.example.weather.infrastructure.adapter.api.html	/^<div class="infoBox" id="ignored">$/;"	I
+initControls	build/reports/tests/test/js/report.js	/^    function initControls() {$/;"	f
+initTabs	build/reports/tests/test/js/report.js	/^    function initTabs() {$/;"	f
+isValidCityName	src/main/java/org/example/weather/domain/CityValidator.java	/^    public boolean isValidCityName(String cityName) {$/;"	m	class:CityValidator
+java.compile.nullAnalysis.mode	.vscode/settings.json	/^    "java.compile.nullAnalysis.mode": "automatic"$/;"	s
+label-for-line-wrapping-toggle	build/reports/tests/test/classes/org.example.weather.infrastructure.adapter.api.WeatherApiAdapterTest.html	/^<label class="hidden" id="label-for-line-wrapping-toggle" for="line-wrapping-toggle">Wrap lines$/;"	I
+label-for-line-wrapping-toggle	build/reports/tests/test/index.html	/^<label class="hidden" id="label-for-line-wrapping-toggle" for="line-wrapping-toggle">Wrap lines$/;"	I
+label-for-line-wrapping-toggle	build/reports/tests/test/packages/org.example.weather.infrastructure.adapter.api.html	/^<label class="hidden" id="label-for-line-wrapping-toggle" for="line-wrapping-toggle">Wrap lines$/;"	I
+label.hidden	build/reports/tests/test/css/base-style.css	/^label.hidden {$/;"	c
+line-wrapping-toggle	build/reports/tests/test/classes/org.example.weather.infrastructure.adapter.api.WeatherApiAdapterTest.html	/^<input id="line-wrapping-toggle" type="checkbox" autocomplete="off"\/>$/;"	I
+line-wrapping-toggle	build/reports/tests/test/index.html	/^<input id="line-wrapping-toggle" type="checkbox" autocomplete="off"\/>$/;"	I
+line-wrapping-toggle	build/reports/tests/test/packages/org.example.weather.infrastructure.adapter.api.html	/^<input id="line-wrapping-toggle" type="checkbox" autocomplete="off"\/>$/;"	I
+main	src/main/java/org/example/weather/WeatherApplication.java	/^    public static void main(String[] args) {$/;"	m	class:WeatherApplication
+main	src/main/java/org/example/weather/infrastructure/adapter/api/WeatherApiResponse.java	/^    private Main main;$/;"	f	class:WeatherApiResponse	file:
+mainEnd	gradlew.bat	/^:mainEnd$/;"	l
+networkTimeout	gradle/wrapper/gradle-wrapper.properties	/^networkTimeout=10000$/;"	k
+omega	gradlew.bat	/^:omega$/;"	l
+onload	build/reports/tests/test/js/report.js	/^    window.onload = function() {$/;"	f	function:window
+org.example.weather	src/main/java/org/example/weather/WeatherApplication.java	/^package org.example.weather;$/;"	p
+org.example.weather	src/test/java/org/example/weather/WeatherApplicationTests.java	/^package org.example.weather;$/;"	p
+org.example.weather.application.port	src/main/java/org/example/weather/application/port/WeatherGetInformationByCityPort.java	/^package org.example.weather.application.port;$/;"	p
+org.example.weather.application.port	src/main/java/org/example/weather/application/port/WeatherPersistencePort.java	/^package org.example.weather.application.port;$/;"	p
+org.example.weather.application.service	src/main/java/org/example/weather/application/service/WeatherService.java	/^package org.example.weather.application.service;$/;"	p
+org.example.weather.application.service	src/test/java/org/example/weather/application/service/WeatherServiceTest.java	/^package org.example.weather.application.service;$/;"	p
+org.example.weather.domain	src/main/java/org/example/weather/domain/CityValidator.java	/^package org.example.weather.domain;$/;"	p
+org.example.weather.domain	src/main/java/org/example/weather/domain/Weather.java	/^package org.example.weather.domain;$/;"	p
+org.example.weather.domain	src/test/java/org/example/weather/domain/CityValidatorTest.java	/^package org.example.weather.domain;$/;"	p
+org.example.weather.infrastructure.adapter.api	src/main/java/org/example/weather/infrastructure/adapter/api/WeatherApiAdapter.java	/^package org.example.weather.infrastructure.adapter.api;$/;"	p
+org.example.weather.infrastructure.adapter.api	src/main/java/org/example/weather/infrastructure/adapter/api/WeatherApiResponse.java	/^package org.example.weather.infrastructure.adapter.api;$/;"	p
+org.example.weather.infrastructure.adapter.api	src/main/java/org/example/weather/infrastructure/adapter/api/WeatherApiResponseMapper.java	/^package org.example.weather.infrastructure.adapter.api;$/;"	p
+org.example.weather.infrastructure.adapter.api	src/test/java/org/example/weather/infrastructure/adapter/api/WeatherApiAdapterTest.java	/^package org.example.weather.infrastructure.adapter.api;$/;"	p
+org.example.weather.infrastructure.adapter.api	src/test/java/org/example/weather/infrastructure/adapter/api/WeatherApiResponseMapperTest.java	/^package org.example.weather.infrastructure.adapter.api;$/;"	p
+org.example.weather.infrastructure.adapter.db	src/main/java/org/example/weather/infrastructure/adapter/db/WeatherEntity.java	/^package org.example.weather.infrastructure.adapter.db;$/;"	p
+org.example.weather.infrastructure.adapter.db	src/main/java/org/example/weather/infrastructure/adapter/db/WeatherMapper.java	/^package org.example.weather.infrastructure.adapter.db;$/;"	p
+org.example.weather.infrastructure.adapter.db	src/main/java/org/example/weather/infrastructure/adapter/db/WeatherPersistenceAdapter.java	/^package org.example.weather.infrastructure.adapter.db;$/;"	p
+org.example.weather.infrastructure.adapter.db	src/main/java/org/example/weather/infrastructure/adapter/db/WeatherRepository.java	/^package org.example.weather.infrastructure.adapter.db;$/;"	p
+org.example.weather.infrastructure.adapter.db	src/test/java/org/example/weather/infrastructure/adapter/db/WeatherMapperTest.java	/^package org.example.weather.infrastructure.adapter.db;$/;"	p
+org.example.weather.infrastructure.adapter.db	src/test/java/org/example/weather/infrastructure/adapter/db/WeatherPersistenceAdapterTest.java	/^package org.example.weather.infrastructure.adapter.db;$/;"	p
+org.example.weather.web	src/main/java/org/example/weather/web/WeatherController.java	/^package org.example.weather.web;$/;"	p
+playground	build/reports/problems/problems-report.html	/^<div id="playground"><\/div>$/;"	I
+removeClass	build/reports/tests/test/js/report.js	/^    function removeClass(element, classValue) {$/;"	f
+report	build/reports/problems/problems-report.html	/^<div class="report" id="report">$/;"	I
+restTemplate	src/main/java/org/example/weather/infrastructure/adapter/api/WeatherApiAdapter.java	/^    private final RestTemplate restTemplate = new RestTemplate();$/;"	f	class:WeatherApiAdapter	file:
+restTemplate	src/test/java/org/example/weather/infrastructure/adapter/api/WeatherApiAdapterTest.java	/^    private RestTemplate restTemplate;$/;"	f	class:WeatherApiAdapterTest	file:
+saveWeather	src/main/java/org/example/weather/application/port/WeatherPersistencePort.java	/^    void saveWeather(Weather weather);$/;"	m	interface:WeatherPersistencePort
+saveWeather	src/main/java/org/example/weather/infrastructure/adapter/db/WeatherPersistenceAdapter.java	/^    public void saveWeather(Weather weather) {$/;"	m	class:WeatherPersistenceAdapter
+select	build/reports/tests/test/js/report.js	/^    function select(i) {$/;"	c
+setDescription	src/main/java/org/example/weather/infrastructure/adapter/api/WeatherApiResponse.java	/^        public void setDescription(String description) {$/;"	m	class:WeatherApiResponse.WeatherDescription
+setMain	src/main/java/org/example/weather/infrastructure/adapter/api/WeatherApiResponse.java	/^    public void setMain(Main main) {$/;"	m	class:WeatherApiResponse
+setTemp	src/main/java/org/example/weather/infrastructure/adapter/api/WeatherApiResponse.java	/^        public void setTemp(double temp) {$/;"	m	class:WeatherApiResponse.Main
+setUp	src/test/java/org/example/weather/application/service/WeatherServiceTest.java	/^    void setUp() {$/;"	m	class:WeatherServiceTest
+setUp	src/test/java/org/example/weather/infrastructure/adapter/api/WeatherApiAdapterTest.java	/^    void setUp() {$/;"	m	class:WeatherApiAdapterTest
+setUp	src/test/java/org/example/weather/infrastructure/adapter/db/WeatherPersistenceAdapterTest.java	/^    void setUp() {$/;"	m	class:WeatherPersistenceAdapterTest
+setWeather	src/main/java/org/example/weather/infrastructure/adapter/api/WeatherApiResponse.java	/^    public void setWeather(List<WeatherDescription> weather) {$/;"	m	class:WeatherApiResponse
+span.code	build/reports/tests/test/css/base-style.css	/^span.code {$/;"	c
+span.code pre	build/reports/tests/test/css/base-style.css	/^span.code pre {$/;"	s
+span.wrapped pre	build/reports/tests/test/css/base-style.css	/^span.wrapped pre {$/;"	s
+successRate	build/reports/tests/test/classes/org.example.weather.infrastructure.adapter.api.WeatherApiAdapterTest.html	/^<div class="infoBox failures" id="successRate">$/;"	I
+successRate	build/reports/tests/test/index.html	/^<div class="infoBox failures" id="successRate">$/;"	I
+successRate	build/reports/tests/test/packages/org.example.weather.infrastructure.adapter.api.html	/^<div class="infoBox failures" id="successRate">$/;"	I
+summary	build/reports/tests/test/classes/org.example.weather.infrastructure.adapter.api.WeatherApiAdapterTest.html	/^<div id="summary">$/;"	I
+summary	build/reports/tests/test/index.html	/^<div id="summary">$/;"	I
+summary	build/reports/tests/test/packages/org.example.weather.infrastructure.adapter.api.html	/^<div id="summary">$/;"	I
+switchTab	build/reports/tests/test/js/report.js	/^    function switchTab() {$/;"	f
+tab0	build/reports/tests/test/classes/org.example.weather.infrastructure.adapter.api.WeatherApiAdapterTest.html	/^<div id="tab0" class="tab">$/;"	I
+tab0	build/reports/tests/test/index.html	/^<div id="tab0" class="tab">$/;"	I
+tab0	build/reports/tests/test/packages/org.example.weather.infrastructure.adapter.api.html	/^<div id="tab0" class="tab">$/;"	I
+tab1	build/reports/tests/test/classes/org.example.weather.infrastructure.adapter.api.WeatherApiAdapterTest.html	/^<div id="tab1" class="tab">$/;"	I
+tab1	build/reports/tests/test/index.html	/^<div id="tab1" class="tab">$/;"	I
+tab1	build/reports/tests/test/packages/org.example.weather.infrastructure.adapter.api.html	/^<div id="tab1" class="tab">$/;"	I
+tab2	build/reports/tests/test/classes/org.example.weather.infrastructure.adapter.api.WeatherApiAdapterTest.html	/^<div id="tab2" class="tab">$/;"	I
+tab2	build/reports/tests/test/index.html	/^<div id="tab2" class="tab">$/;"	I
+tabs	build/reports/tests/test/classes/org.example.weather.infrastructure.adapter.api.WeatherApiAdapterTest.html	/^<div id="tabs">$/;"	I
+tabs	build/reports/tests/test/index.html	/^<div id="tabs">$/;"	I
+tabs	build/reports/tests/test/js/report.js	/^    var tabs = {};$/;"	v
+tabs	build/reports/tests/test/packages/org.example.weather.infrastructure.adapter.api.html	/^<div id="tabs">$/;"	I
+temp	src/main/java/org/example/weather/infrastructure/adapter/api/WeatherApiResponse.java	/^        private double temp;$/;"	f	class:WeatherApiResponse.Main	file:
+temperature	build/resources/main/schema.sql	/^    temperature DOUBLE PRECISION$/;"	E	table:weather_entity
+temperature	src/main/java/org/example/weather/domain/Weather.java	/^    private double temperature;$/;"	f	class:Weather	file:
+temperature	src/main/java/org/example/weather/infrastructure/adapter/db/WeatherEntity.java	/^    private double temperature;$/;"	f	class:WeatherEntity	file:
+temperature	src/main/resources/schema.sql	/^    temperature DOUBLE PRECISION$/;"	E	table:weather_entity
+testGetWeather	src/test/java/org/example/weather/application/service/WeatherServiceTest.java	/^    void testGetWeather() {$/;"	m	class:WeatherServiceTest
+testGetWeatherForCity	src/test/java/org/example/weather/infrastructure/adapter/api/WeatherApiAdapterTest.java	/^    void testGetWeatherForCity() {$/;"	m	class:WeatherApiAdapterTest
+testGetWeatherForCity()	build/reports/tests/test/classes/org.example.weather.infrastructure.adapter.api.WeatherApiAdapterTest.html	/^<a name="testGetWeatherForCity()"><\/a>$/;"	a
+testGetWeatherForCity()	build/reports/tests/test/classes/org.example.weather.infrastructure.adapter.api.WeatherApiAdapterTest.html	/^<h3 class="failures">testGetWeatherForCity()<\/h3>$/;"	j
+testGetWeatherInvalidCity	src/test/java/org/example/weather/application/service/WeatherServiceTest.java	/^    void testGetWeatherInvalidCity() {$/;"	m	class:WeatherServiceTest
+testIsValidCityName	src/test/java/org/example/weather/domain/CityValidatorTest.java	/^    void testIsValidCityName() {$/;"	m	class:CityValidatorTest
+testSaveWeather	src/test/java/org/example/weather/infrastructure/adapter/db/WeatherPersistenceAdapterTest.java	/^    void testSaveWeather() {$/;"	m	class:WeatherPersistenceAdapterTest
+testToDomain	src/test/java/org/example/weather/infrastructure/adapter/api/WeatherApiResponseMapperTest.java	/^    void testToDomain() {$/;"	m	class:WeatherApiResponseMapperTest
+testToDomain	src/test/java/org/example/weather/infrastructure/adapter/db/WeatherMapperTest.java	/^    void testToDomain() {$/;"	m	class:WeatherMapperTest
+testToDomainWithInvalidResponse	src/test/java/org/example/weather/infrastructure/adapter/api/WeatherApiResponseMapperTest.java	/^    void testToDomainWithInvalidResponse() {$/;"	m	class:WeatherApiResponseMapperTest
+testToEntity	src/test/java/org/example/weather/infrastructure/adapter/db/WeatherMapperTest.java	/^    void testToEntity() {$/;"	m	class:WeatherMapperTest
+tests	build/reports/tests/test/classes/org.example.weather.infrastructure.adapter.api.WeatherApiAdapterTest.html	/^<div class="infoBox" id="tests">$/;"	I
+tests	build/reports/tests/test/index.html	/^<div class="infoBox" id="tests">$/;"	I
+tests	build/reports/tests/test/packages/org.example.weather.infrastructure.adapter.api.html	/^<div class="infoBox" id="tests">$/;"	I
+toDomain	src/main/java/org/example/weather/infrastructure/adapter/api/WeatherApiResponseMapper.java	/^    public static Weather toDomain(WeatherApiResponse response, String city) {$/;"	m	class:WeatherApiResponseMapper
+toDomain	src/main/java/org/example/weather/infrastructure/adapter/db/WeatherMapper.java	/^    public Weather toDomain(WeatherEntity weatherEntity) {$/;"	m	class:WeatherMapper
+toEntity	src/main/java/org/example/weather/infrastructure/adapter/db/WeatherMapper.java	/^    public WeatherEntity toEntity(Weather weather) {$/;"	m	class:WeatherMapper
+toggleLineWrapping	build/reports/tests/test/js/report.js	/^    function toggleLineWrapping() {$/;"	f
+ul	build/reports/tests/test/css/base-style.css	/^ul {$/;"	s
+ul.linkList	build/reports/tests/test/css/style.css	/^ul.linkList {$/;"	c
+ul.linkList li	build/reports/tests/test/css/style.css	/^ul.linkList li {$/;"	s
+ul.tabLinks	build/reports/tests/test/css/base-style.css	/^ul.tabLinks {$/;"	c
+ul.tabLinks a	build/reports/tests/test/css/base-style.css	/^ul.tabLinks a {$/;"	s
+ul.tabLinks li	build/reports/tests/test/css/base-style.css	/^ul.tabLinks li {$/;"	s
+ul.tabLinks li h2	build/reports/tests/test/css/base-style.css	/^ul.tabLinks li h2 {$/;"	s
+ul.tabLinks li.selected	build/reports/tests/test/css/base-style.css	/^ul.tabLinks li.selected {$/;"	c
+ul.tabLinks li:hover	build/reports/tests/test/css/base-style.css	/^ul.tabLinks li:hover {$/;"	s
+validateDistributionUrl	gradle/wrapper/gradle-wrapper.properties	/^validateDistributionUrl=true$/;"	k
+warn	gradlew	/^warn () {$/;"	f
+weather	src/main/java/org/example/weather/infrastructure/adapter/api/WeatherApiResponse.java	/^    private List<WeatherDescription> weather;$/;"	f	class:WeatherApiResponse	file:
+weatherApiAdapter	src/test/java/org/example/weather/infrastructure/adapter/api/WeatherApiAdapterTest.java	/^    private WeatherApiAdapter weatherApiAdapter;$/;"	f	class:WeatherApiAdapterTest	file:
+weatherMapper	src/main/java/org/example/weather/infrastructure/adapter/db/WeatherPersistenceAdapter.java	/^    private final WeatherMapper weatherMapper;$/;"	f	class:WeatherPersistenceAdapter	file:
+weatherMapper	src/test/java/org/example/weather/infrastructure/adapter/db/WeatherMapperTest.java	/^    private final WeatherMapper weatherMapper = new WeatherMapper();$/;"	f	class:WeatherMapperTest	file:
+weatherMapper	src/test/java/org/example/weather/infrastructure/adapter/db/WeatherPersistenceAdapterTest.java	/^    private WeatherMapper weatherMapper;$/;"	f	class:WeatherPersistenceAdapterTest	file:
+weatherPersistenceAdapter	src/test/java/org/example/weather/infrastructure/adapter/db/WeatherPersistenceAdapterTest.java	/^    private WeatherPersistenceAdapter weatherPersistenceAdapter;$/;"	f	class:WeatherPersistenceAdapterTest	file:
+weatherPersistencePort	src/main/java/org/example/weather/application/service/WeatherService.java	/^    private final WeatherPersistencePort weatherPersistencePort;$/;"	f	class:WeatherService	file:
+weatherPersistencePort	src/test/java/org/example/weather/application/service/WeatherServiceTest.java	/^    private WeatherPersistencePort weatherPersistencePort;$/;"	f	class:WeatherServiceTest	file:
+weatherPort	src/main/java/org/example/weather/application/service/WeatherService.java	/^    private final WeatherGetInformationByCityPort weatherPort;$/;"	f	class:WeatherService	file:
+weatherPort	src/test/java/org/example/weather/application/service/WeatherServiceTest.java	/^    private WeatherGetInformationByCityPort weatherPort;$/;"	f	class:WeatherServiceTest	file:
+weatherRepository	src/main/java/org/example/weather/infrastructure/adapter/db/WeatherPersistenceAdapter.java	/^    private final WeatherRepository weatherRepository;$/;"	f	class:WeatherPersistenceAdapter	file:
+weatherRepository	src/test/java/org/example/weather/infrastructure/adapter/db/WeatherPersistenceAdapterTest.java	/^    private WeatherRepository weatherRepository;$/;"	f	class:WeatherPersistenceAdapterTest	file:
+weatherService	src/main/java/org/example/weather/web/WeatherController.java	/^    private final WeatherService weatherService;$/;"	f	class:WeatherController	file:
+weatherService	src/test/java/org/example/weather/application/service/WeatherServiceTest.java	/^    private WeatherService weatherService;$/;"	f	class:WeatherServiceTest	file:
+weather_entity	build/resources/main/schema.sql	/^CREATE TABLE weather_entity ($/;"	t
+weather_entity	src/main/resources/schema.sql	/^CREATE TABLE weather_entity ($/;"	t
+zipStoreBase	gradle/wrapper/gradle-wrapper.properties	/^zipStoreBase=GRADLE_USER_HOME$/;"	k
+zipStorePath	gradle/wrapper/gradle-wrapper.properties	/^zipStorePath=wrapper\/dists$/;"	k
